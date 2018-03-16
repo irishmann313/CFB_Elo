@@ -1,0 +1,129 @@
+Air Force::1500
+Akron::1500
+Alabama::1500
+Appalachian State::1500
+Arizona::1500
+Arizona State::1500
+Arkansas::1500
+Arkansas State::1500
+Army::1500
+Auburn::1500
+Ball State::1500
+Baylor::1500
+Boise State::1500
+Boston College::1500
+Bowling Green State::1500
+Buffalo::1500
+Brigham Young::1500
+California::1500
+Central Florida::1500
+Central Michigan::1500
+Charlotte::1500
+Cincinnati::1500
+Clemson::1500
+Coastal Carolina::1500
+Colorado::1500
+Colorado State::1500
+Connecticut::1500
+Duke::1500
+East Carolina::1500
+Eastern Michigan::1500
+Florida::1500
+Florida Atlantic::1500
+Florida International::1500
+Florida State::1500
+Fresno State::1500
+Georgia::1500
+Georgia Southern::1500
+Georgia State::1500
+Georgia Tech::1500
+Hawaii::1500
+Houston::1500
+Illinois::1500
+Indiana::1500
+Iowa::1500
+Iowa State::1500
+Kansas::1500
+Kansas State::1500
+Kent State::1500
+Kentucky::1500
+Louisiana-Lafayette::1500
+Louisiana-Monroe::1500
+Louisiana Tech::1500
+Louisville::1500
+Louisiana State::1500
+Marshall::1500
+Maryland::1500
+Massachusetts::1500
+Memphis::1500
+Miami (FL)::1500
+Miami (OH)::1500
+Michigan::1500
+Michigan State::1500
+Middle Tennessee State::1500
+Minnesota::1500
+Mississippi State::1500
+Missouri::1500
+Navy::1500
+North Carolina State::1500
+Nebraska::1500
+Nevada::1500
+New Mexico::1500
+New Mexico State::1500
+North Carolina::1500
+North Texas::1500
+Northern Illinois::1500
+Northwestern::1500
+Notre Dame::1500
+Ohio::1500
+Ohio State::1500
+Oklahoma::1500
+Oklahoma State::1500
+Old Dominion::1500
+Mississippi::1500
+Oregon::1500
+Oregon State::1500
+Penn State::1500
+Pittsburgh::1500
+Purdue::1500
+Rice::1500
+Rutgers::1500
+San Diego State::1500
+San Jose State::1500
+Southern Methodist::1500
+South Alabama::1500
+South Carolina::1500
+South Florida::1500
+Southern Mississippi::1500
+Stanford::1500
+Syracuse::1500
+Texas Christian::1500
+Temple::1500
+Tennessee::1500
+Texas::1500
+Texas A&M::1500
+Texas State::1500
+Texas Tech::1500
+Toledo::1500
+Troy::1500
+Tulane::1500
+Tulsa::1500
+Alabama-Birmingham::1500
+UCLA::1500
+Nevada-Las Vegas::1500
+Southern California::1500
+Utah::1500
+Utah State::1500
+Texas-El Paso::1500
+Texas-San Antonio::1500
+Vanderbilt::1500
+Virginia::1500
+Virginia Tech::1500
+Wake Forest::1500
+Washington::1500
+Washington State::1500
+West Virginia::1500
+Western Kentucky::1500
+Western Michigan::1500
+Wisconsin::1500
+Wyoming::1500
